@@ -164,7 +164,7 @@ input:focus {
     height: 90%;
     margin: 6px;
     border-radius: 0px;
-    border-bottom: 2px solid var(--light-gray);
+    border-bottom: 1.5px solid var(--light-gray);
 }
 
 #announcements :last-child {
